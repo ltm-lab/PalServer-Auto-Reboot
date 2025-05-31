@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# 팰월드 RCON 재부팅 스크립트 (올바른 버전)
 SERVER_PATH="/서버파일/위치한/경로/PalServer"
 RCON_PASSWORD="RCON_PASSWORD"
 LOG_FILE="/원하는/경로/PalServer_reboot.log"
